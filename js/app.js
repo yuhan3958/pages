@@ -1,3 +1,3 @@
-function btn(){
+function sayhi(){
   alert('Hi!')
 }
