@@ -6,3 +6,6 @@ function sayhi(i){
     alert("뭐야 님 개발자도구 뜯어봤죠")
   }
 }
+function saytls(){
+  alert("해석: 아 진짜로 겁나게 집가고샆다아ㅏㅏㅏㅏㅏ!!!!")
+}
