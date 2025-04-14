@@ -3,5 +3,5 @@
   src: url('../fonts/I_am.ttf') format('truetype');
 }
 
-#myname {font-size: 200pt; color:gold; font-family: 'IM'; margin-top: 0px;}
+#myname {font-size: 100pt; color:gold; font-family: 'IM'; margin-top: 0px;}
 #html {background-color: darkgray;}
